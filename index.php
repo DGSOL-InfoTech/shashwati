@@ -62,31 +62,31 @@
         <li>
           <img src="img/slides/b1.jpg" alt="" />
           <div class="flex-caption">
-						<p>Only Solution is <h3>SHASHWATI - Piles and Fistula Day Care Center </h3></p> 
+						<p>Only Solution is <h3>SHASHWATI - Ano Rectal Hospital</h3></p> 
           </div>
         </li>
         <li>
           <img src="img/slides/b2.jpg" alt="" />
           <div class="flex-caption">
-						<p>Only Solution is <h3>SHASHWATI - Piles and Fistula Day Care Center </h3></p> 
+						<p>Only Solution is <h3>SHASHWATI - Ano Rectal Hospital</h3></p> 
           </div>
         </li>
         <li>
           <img src="img/slides/b3.jpg" alt="" />
           <div class="flex-caption">
-						<p>Only Solution is <h3>SHASHWATI - Piles and Fistula Day Care Center </h3></p> 
+						<p>Only Solution is <h3>SHASHWATI - Ano Rectal Hospital</h3></p> 
           </div>
         </li>
         <li>
           <img src="img/slides/b4.jpg" alt="" />
           <div class="flex-caption">
-						<p>Only Solution is <h3>SHASHWATI - Piles and Fistula Day Care Center </h3></p> 
+						<p>Only Solution is <h3>SHASHWATI - Ano Rectal Hospital</h3></p> 
           </div>
         </li>
         <li>
           <img src="img/slides/b5.jpg" alt="" />
           <div class="flex-caption">
-						<p>Only Solution is <h3>SHASHWATI - Piles and Fistula Day Care Center </h3></p> 
+						<p>Only Solution is <h3>SHASHWATI - Ano Rectal Hospital</h3></p> 
           </div>
         </li>
       </ul>
@@ -138,7 +138,7 @@
 				</div>
 				<div class="col-md-8">
 					<div>
-						<h1><span>Welcome to SHASHWATI!!<span class="blue_text"> <small>Piles and Fistula Day Care Clinic</small></span></span></h1>
+						<h1><span>Welcome to SHASHWATI!!<span class="blue_text"> <small>Ano Rectal Hospital</small></span></span></h1>
 						<span class="clear spacer_responsive_hide_mobile " style="height:13px;display:block;"></span>
 						<p>We have immense pleasure to introduce ourselves, for the work we are doing, in ANO RECTAL DISEASES for last 5 years.</p>
 						<p>Today in a 21<sup>st</sup> century we all living with the hectic schedule of our work load. Along with this due to irregular dietary habits, junk food, western cultured living and stressful life, we suffers a lot. HURRY, CURRY, WORRY are the main causes of these common diseases and especially Ano Rectal Diseases. Due to shyness or some myths or fear factor people neglect them and suffers a lot. It is a general observation that most of the time patient came when it becomes complicated. We want to literate people about this diseases, symptoms and what will be best for them. </p>
@@ -317,10 +317,11 @@
 					<div class="widget">
 						<h3 class="widgetheading">Our Contact</h3>
 						<address>
-							<strong>SHASHWATI</strong> - Piles and Fistula Day Care Center<br>
-							123, 1st Floor, Flower Valley<br>
-							Khadakpada Circle, Kalyan West<br>
-							Pin-421301 Maharashtra, IN.
+			              <strong>SHASHWATI</strong> - Ano Rectal Hospital<br>
+			              201, Varna Building, Near Heena Garden<br>
+			              Behind University, Gandhari
+			              Kalyan West Pin-421301<br>
+			              Maharashtra, IN.
 						</address>
 						<p>
 							<i class="icon-phone"></i> (91) 922-363-6313 <br>
@@ -357,7 +358,7 @@
 				<div class="row">
 					<div class="col-lg-9">
 						<div class="copyright">
-							Copyright &copy; <a href="http://www.shashwatiinpiles.com"><strong>SHASHWATI</strong> - Piles and Fistula Day Care Center</a> 2010-2016 All right reserved.
+							Copyright &copy; <a href="http://www.shashwatiinpiles.com"><strong>SHASHWATI</strong> - Ano Rectal Hospital</a> 2010-2016 All right reserved.
 							<ul class="social-network">
 								<li><a href="#" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 								<li><a href="#" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a></li>
