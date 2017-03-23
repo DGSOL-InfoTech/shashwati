@@ -1,0 +1,8 @@
+RewriteEngine on
+
+RewriteCond %{HTTP_REFERER} !^http://shashwatiinpiles.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://shashwatiinpiles.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.shashwatiinpiles.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.shashwatiinpiles.com$      [NC]
+RewriteRule .*\.(jpg|jpeg|gif|png|bmp)$ - [F,NC]
+
