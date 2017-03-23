@@ -1621,4 +1621,8 @@ padding-top: 12px;
 
 }
 
- 
+/* Style for Google Map */
+#map {
+  height: 400px;
+  width: 100%;
+} 

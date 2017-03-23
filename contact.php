@@ -15,7 +15,7 @@
 <!-- css -->
 <link href="css/bootstrap.min.css" rel="stylesheet" />
 <link href="css/fancybox/jquery.fancybox.css" rel="stylesheet">
-<link href="css/jcarousel.css" rel="stylesheet" />
+<!--link href="css/jcarousel.css" rel="stylesheet" /-->
 <link href="css/flexslider.css" rel="stylesheet" />
 <link href="css/style.css" rel="stylesheet" />
  
@@ -76,10 +76,11 @@
 				<div class="col-md-6">
           <h3>Our Contact</h3>
           <address>
-            <strong>SHASHWATI</strong> - Piles and Fitsula Day Care Center<br>
-            123, 1st Floor, Flower Valley<br>
-            Khadakpada Circle, Kalyan West<br>
-            Pin-421301 Maharashtra, IN.
+            <strong>SHASHWATI</strong> - Ano Rectal Hospital<br>
+            201, Varna Building, Near Heena Garden<br>
+            Behind University, Gandhari
+            Kalyan West Pin-421301<br>
+            Maharashtra, IN.
           </address>
           <p>
             <i class="icon-phone"></i> (91) 922-363-6313 <br>
@@ -145,69 +146,7 @@
 		</div>
 	</section>
   <footer>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-4">
-          <div class="widget">
-            <h3 class="widgetheading">Our Contact</h3>
-            <address>
-              <strong>SHASHWATI</strong> - Ano Rectal Hospital<br>
-              201, Varna Building, Near Heena Garden<br>
-              Behind University, Gandhari
-              Kalyan West Pin-421301<br>
-              Maharashtra, IN.
-            </address>
-            <p>
-              <i class="icon-phone"></i> (91) 922-363-6313 <br>
-              <i class="icon-envelope-alt"></i> info@shashwatiinpiles.com
-            </p>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="widget">
-            <h3 class="widgetheading">Consulting Hours</h3>
-            <ul class="link-list">
-              <li><a href="#">Morning: 10:00 am to 01:00 pm</a></li>
-              <li><a href="#">Evening: 06:00 pm to 09:30 pm</a></li>
-            </ul>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="widget">
-            <h5 class="widgetheading">Location Map</h5>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d1883.3350044722986!2d73.13695285040131!3d19.253208216278594!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1461789286915" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-            <!--ul class="link-list">
-              <li><a href="#">Latest Events</a></li>
-              <li><a href="#">Terms and conditions</a></li>
-              <li><a href="#">Privacy policy</a></li>
-              <li><a href="#">Career</a></li>
-              <li><a href="#">Contact us</a></li>
-            </ul-->
-          </div>
-        </div>
-      </div>
-    </div>
-    <div id="sub-footer">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-9">
-            <div class="copyright">
-              Copyright &copy; <a href="http://www.shashwatiinpiles.com"><strong>SHASHWATI</strong> - Ano Rectal Hospital</a> 2010-2016 All right reserved.
-              <ul class="social-network">
-                <li><a href="#" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#" data-placement="top" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-                <li><a href="#" data-placement="top" title="Pinterest"><i class="fa fa-pinterest"></i></a></li>
-                <li><a href="#" data-placement="top" title="Google plus"><i class="fa fa-google-plus"></i></a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-lg-3">
-            <p><span class="pull-right">Maintained by: <a href="http://www.dgsol-in.com" target="_blank"><strong>DGSOL InfoTech</strong></a></span></p>
-          </div>
-        </div>
-      </div>
-    </div>
+    <?php include ('includes/footer.inc');?>
   </footer>
 </div>
 <a href="#" class="scrollup"><i class="fa fa-angle-up active"></i></a>
@@ -231,5 +170,9 @@
   $(function () { $("input,select,textarea").not("[type=submit]").jqBootstrapValidation(); } );
 </script>
 <script src="js/custom.js"></script> 
+<script src="js/googlemap.js"></script>
+<script async defer
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDJq4WOJNGuEJSBkjDLn5Hxw6Lp7jaYZfo&callback=initMap">
+</script>
 </body>
 </html>
