@@ -151,10 +151,11 @@
           <div class="widget">
             <h3 class="widgetheading">Our Contact</h3>
             <address>
-              <strong>SHASHWATI</strong> - Piles and Fitsula Day Care Center<br>
-              123, 1st Floor, Flower Valley<br>
-              Khadakpada Circle, Kalyan West<br>
-              Pin-421301 Maharashtra, IN.
+              <strong>SHASHWATI</strong> - Ano Rectal Hospital<br>
+              201, Varna Building, Near Heena Garden<br>
+              Behind University, Gandhari
+              Kalyan West Pin-421301<br>
+              Maharashtra, IN.
             </address>
             <p>
               <i class="icon-phone"></i> (91) 922-363-6313 <br>
@@ -191,7 +192,7 @@
         <div class="row">
           <div class="col-lg-9">
             <div class="copyright">
-              Copyright &copy; <a href="http://www.shashwatiinpiles.com"><strong>SHASHWATI</strong> - Piles and Fitsula Day Care Center</a> 2010-2016 All right reserved.
+              Copyright &copy; <a href="http://www.shashwatiinpiles.com"><strong>SHASHWATI</strong> - Ano Rectal Hospital</a> 2010-2016 All right reserved.
               <ul class="social-network">
                 <li><a href="#" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a></li>
                 <li><a href="#" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a></li>

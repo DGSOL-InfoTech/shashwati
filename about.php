@@ -135,7 +135,7 @@
 							</div>
 							<div class="col-md-8">
 								<h3>Dr. Bharat Bhadane</h3><br>
-								<p>Dr. Bharat K. Bhadane is the founder of <strong>SHASHWATI</strong> - <em>Piles and Fitsula Day Care Center </em>in Jan-2010 and successfully creating milestones in KSHARSUTRA treatment for last 5 years.</p><br> 
+								<p>Dr. Bharat K. Bhadane is the founder of <strong>SHASHWATI</strong> - <em>Ano Rectal Hospital </em>in Jan-2010 and successfully creating milestones in KSHARSUTRA treatment for last 5 years.</p><br> 
 								<p> He has completed his graduation in Ayurveda in 2004 from M.U.H.S. followed by KSHARSUTRA Training Course (I-Care) in Podar Medical College, Mumbai.  Since 2008 he is doing Ksharsutra practice for ano-rectal diseases and has a great result for around 2500 patients.</p>
 							</div>
 						</div>
@@ -188,10 +188,11 @@
 					<div class="widget">
 						<h3 class="widgetheading">Our Contact</h3>
 						<address>
-							<strong>SHASHWATI</strong> - Piles and Fitsula Day Care Center<br>
-							123, 1st Floor, Flower Valley<br>
-							Khadakpada Circle, Kalyan West<br>
-							Pin-421301 Maharashtra, IN.
+			              <strong>SHASHWATI</strong> - Ano Rectal Hospital<br>
+			              201, Varna Building, Near Heena Garden<br>
+			              Behind University, Gandhari
+			              Kalyan West Pin-421301<br>
+			              Maharashtra, IN.
 						</address>
 						<p>
 							<i class="icon-phone"></i> (91) 922-363-6313 <br>
@@ -228,7 +229,7 @@
 				<div class="row">
 					<div class="col-lg-9">
 						<div class="copyright">
-							Copyright &copy; <a href="http://www.shashwatiinpiles.com"><strong>SHASHWATI</strong> - Piles and Fitsula Day Care Center</a> 2010-2016 All right reserved.
+							Copyright &copy; <a href="http://www.shashwatiinpiles.com"><strong>SHASHWATI</strong> - Ano Rectal Hospital</a> 2010-2016 All right reserved.
 							<ul class="social-network">
 								<li><a href="#" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 								<li><a href="#" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a></li>

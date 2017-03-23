@@ -164,7 +164,7 @@
         <div class="row">
           <div class="col-lg-9">
             <div class="copyright">
-              Copyright &copy; <a href="http://www.shashwatiinpiles.com"><strong>SHASHWATI</strong> - Piles and Fistula Day Care Center</a> 2010-2016 All right reserved.
+              Copyright &copy; <a href="http://www.shashwatiinpiles.com"><strong>SHASHWATI</strong> - Ano Rectal Hospital</a> 2010-2016 All right reserved.
               <ul class="social-network">
                 <li><a href="#" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a></li>
                 <li><a href="#" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a></li>
