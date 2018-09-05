@@ -12,7 +12,8 @@
               Maharashtra, IN.
             </address>
             <p>
-              <i class="icon-phone"></i> (91) 922-363-6313 <br>
+              <i class="icon-phone"></i> +91 77770 01480 <br>
+              <i class="icon-phone"></i> +91 98907 72802 <br>
               <i class="icon-envelope-alt"></i> info@shashwatiinpiles.com
             </p>
           </div>
